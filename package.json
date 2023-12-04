@@ -85,13 +85,5 @@
   "peerDependencies": {
     "react": ">=18",
     "react-dom": ">=18"
-  },
-  "resolutions": {
-    "glob-parent": ">=5.1.2",
-    "parse-url": ">=8.1.0",
-    "semver": ">=7.5.2",
-    "trim": ">=0.0.3",
-    "trim-newlines": ">=3.0.1",
-    "yaml": ">=2.2.2"
   }
 }
